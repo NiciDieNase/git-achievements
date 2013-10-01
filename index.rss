@@ -2,6 +2,7 @@
 <title>Felix's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Cathedral Architect (Level 2)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 575 times with git add -p.</description></item>
 <item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 542 times with git add -p.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Historian (Level 9)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
 </channel></rss>

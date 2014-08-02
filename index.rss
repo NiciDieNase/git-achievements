@@ -2,24 +2,8 @@
 <title>Felix's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Master Historian (Level 10)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Apprentice Plumber (Level 1)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Investigator (Level 4)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Goldsmith (Level 7)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
-<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Cathedral Architect (Level 2)</title><description>Added a submodule to a repository.</description></item>
-<item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 575 times with git add -p.</description></item>
-<item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 542 times with git add -p.</description></item>
-<item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Cathedral Worker (Level 3)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
-<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
